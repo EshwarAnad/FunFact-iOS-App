@@ -14,6 +14,7 @@
 		6D19338D21398A5100242D43 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D19338C21398A5100242D43 /* main.m */; };
 		6D1933BA21402C1B00242D43 /* FactBook.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D1933B921402C1B00242D43 /* FactBook.m */; };
 		6D1933BD214585A200242D43 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D1933BB214585A200242D43 /* Main.storyboard */; };
+		6D1933C021459BFA00242D43 /* ColourWheel.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D1933BF21459BFA00242D43 /* ColourWheel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		6D1933B821402C1B00242D43 /* FactBook.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FactBook.h; sourceTree = "<group>"; };
 		6D1933B921402C1B00242D43 /* FactBook.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FactBook.m; sourceTree = "<group>"; };
 		6D1933BC214585A200242D43 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = ../../../Downloads/FunFacts/FunFacts/Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		6D1933BE21459BFA00242D43 /* ColourWheel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ColourWheel.h; sourceTree = "<group>"; };
+		6D1933BF21459BFA00242D43 /* ColourWheel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ColourWheel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				6D19338821398A5100242D43 /* LaunchScreen.storyboard */,
 				6D19338B21398A5100242D43 /* Info.plist */,
 				6D19338C21398A5100242D43 /* main.m */,
+				6D1933BE21459BFA00242D43 /* ColourWheel.h */,
+				6D1933BF21459BFA00242D43 /* ColourWheel.m */,
 			);
 			path = test_project;
 			sourceTree = "<group>";
@@ -149,6 +154,7 @@
 			files = (
 				6D19338221398A5100242D43 /* ViewController.m in Sources */,
 				6D19338D21398A5100242D43 /* main.m in Sources */,
+				6D1933C021459BFA00242D43 /* ColourWheel.m in Sources */,
 				6D1933BA21402C1B00242D43 /* FactBook.m in Sources */,
 				6D19337F21398A5000242D43 /* AppDelegate.m in Sources */,
 			);

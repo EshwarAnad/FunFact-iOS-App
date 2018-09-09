@@ -18,9 +18,9 @@
     if (self) {
         _factArray = [[NSArray alloc] initWithObjects:
                       @"The queen can live up to five years.",
-                      @"Honey bees will travel up to 2.5km for pollen",
+                      @"Honey bees will travel up to 2.5km for pollen.",
                       @"The average bee will make only 1/12th of a teaspoon of honey in its lifetime.",
-                      @"The queen can lay up to 2,500 eggs a day",
+                      @"The queen can lay up to 2,500 eggs a day.",
                       @"The average worker bee lives for just five to six weeks.",
                       nil];
     }
